@@ -51,3 +51,25 @@ pip freeze
 ```
 <p>Above command will give you the list of modules, which comes pre-installed with your new environment.</p>
 
+**Verify that, jupyter-lab, jupyter is installed and present in the list of installed modules.**
+<p>If it is not installed, run the code: </p>
+
+```sh
+conda install -c conda-forge jupyterlab
+Proceed ([y]/n)?  # Type 'Y' to proceed
+```
+<p>Now, We will run the Jupyter Notebook. Run the following code: </p>
+
+```sh
+jupyter-notebook
+```
+
+<h3>Working with the Jupyter Notebook</h3>
+<p>1. You will see the following interface, opened in your browser: </p>
+<img width="858" alt="jupter-gui" src="https://user-images.githubusercontent.com/63901956/120922977-cc2b4700-c6e9-11eb-8e2b-f13c2770973b.png">
+
+<p>2. Click on new -> select Python 3 (from Notebook section). This will create a new notebook for you.</p>
+<img width="858" alt="select-new-jupyter-notebook" src="https://user-images.githubusercontent.com/63901956/120923193-def24b80-c6ea-11eb-8491-a0bb51bbb562.png">
+
+
+
