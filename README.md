@@ -5,6 +5,13 @@
   To learn more, visit at: <a href="https://www.tensorflow.org/">tensorflow.org</a></p>
   
  <h3>About this Course</h3>
- <p>This course is developed with an aim to learn Tensorflow Basics. We will look into, Hello World Applications to advanced DNN (Deep Neural Networks) implementations in Tensorflow. 
+ <p>This course is developed with an aim to learn Tensorflow Basics. We will look into, Hello World Applications to advanced DNN (Deep Neural Networks) implementations in Tensorflow.
 </p>
+<h4>Pre-requisites: </h4>
+<ul>
+  <li>Python</li>
+  <li>Ananconda/jupyter Notebooks</li>
+</ul>
+<h4>Let's Start</h4>
+
 
