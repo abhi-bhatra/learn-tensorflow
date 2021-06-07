@@ -120,6 +120,8 @@ model = tf.keras.Sequential([keras.layers.Dense(units=1, input_shape=[1])]
 ```
 
 Now, we have created a simplest possible Neural Network. On compiling the above code. It has 1 layer `keras.layers.Dense` and this layer has 1 neuron `units=1` and the input shape is is `input_shape=[1]`
+<img width="858" alt="one-layer-NN" src="https://user-images.githubusercontent.com/63901956/120962510-8029e200-c77d-11eb-9559-8a9e2f0b71be.png">
+
 
 
 ```sh
