@@ -145,6 +145,9 @@ SGD's simplicity makes it a good choice for shallow networks. However, it also m
 
 2. We are using LOSS function `loss='mean-squared-error'` because this is a **Regression Problem**.
 
+https://user-images.githubusercontent.com/63901956/120973520-ad31c100-c78c-11eb-8286-88412b35bcdb.mp4
+
+
 <br />
 Regression Predictive Models involve predicting real-valued quantity. Mean Square error or MSE is a default loss to use for regression problems. It is the loss function to be evaluated first and only changed if you have a good reason. Mean squared error is calculated as the average of the squared differences between the predicted and actual values. The squaring means that larger mistakes result in more error than smaller mistakes, meaning that the model is punished for making larger mistakes.
 <p>Know more about loss functions in Keras: <a href="https://keras.io/api/losses/">Keras-Loss-Functions</a></p>
